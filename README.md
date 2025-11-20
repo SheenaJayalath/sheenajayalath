@@ -4,7 +4,7 @@ I’m Sheena, a Maths and Computer Science graduate from South Africa who loves 
 I work across the stack and enjoy turning concepts into real projects. I love experimenting, learning new tools, and tinkering with anything tech-related. When I’m not coding, you’ll probably find me watching anime ( Bleach and Seven Deadly Sins are my all-time favourites). I also have a dog named Haku, who thinks she’s my project manager.
 
 Fun facts about me:
-  * I've actually been coding since I was 9 years old (my dad was a CS teacher).
+  * I've actually been coding since I was 8 years old (my dad was a CS teacher and my first programming code was delphi).
 
   * I haven’t had coffee in over 9 years (somehow still alive).
 
